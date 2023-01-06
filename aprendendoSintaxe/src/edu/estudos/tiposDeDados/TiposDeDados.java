@@ -15,7 +15,7 @@ public class TiposDeDados {
     //constante
     //palavra final reservada para declaração de constantes
     final int CONSTANTE = 18;
-      
+     
 }
 
 
